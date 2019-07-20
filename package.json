@@ -1,6 +1,6 @@
 {
-  "name": "example-npm-package",
-  "version": "1.0.0",
+  "name": "@parinz1234/example-npm-package",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
